@@ -3,7 +3,7 @@
 ## Live version: https://rami24t.github.io/spa-tictactoe-Rami24t/
 
 
-## Instructions for students:
+## Challenge:
 
 ### Create a Tic-Tac-Toe game
 
